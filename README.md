@@ -119,11 +119,16 @@ bot-catatan-utang-teman/
 🎯 Fitur Bot
 
 ✅ Tambah Hutang - Catat hutang teman
+
 ✅ Lihat Hutang - Tampilkan semua hutang
+
 ✅ Bayar Hutang - Kurangi jumlah hutang
 ✅ Ranking 10 - 10 hutang terbesar
+
 ✅ Ringkasan - Statistik hutang
+
 ✅ Hapus Hutang - Hapus data hutang
+
 ✅ Keyboard - Tanpa perlu ketik command
 
 ⚙️ Running di Background
