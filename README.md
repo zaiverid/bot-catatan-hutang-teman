@@ -1,4 +1,4 @@
-# BOT CATATAN HUTANG TEMAN 
+# BOT TELEGRAM CATATAN HUTANG TEMAN 
 
 
 📱 Bot Catatan Hutang Teman - Panduan Instalasi Termux (Android)
