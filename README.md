@@ -46,8 +46,7 @@ npm install
 nano index.js
 ```
 
-Tekan tombol volume atas + K untuk keyboard
-Cari baris ini:
+Cari:
 
 ```javascript
 const token = 'TOKEN_BOT_ANDA';
